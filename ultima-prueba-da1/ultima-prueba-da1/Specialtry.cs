@@ -1,6 +1,6 @@
 ﻿namespace ultima_prueba_da1
 {
-    public enum Especialidad
+    public enum Specialty
     {
         PEDIATRY = 1,
         TRAUMATOLOGY,
