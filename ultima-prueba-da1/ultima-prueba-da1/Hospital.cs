@@ -14,5 +14,7 @@ namespace ultima_prueba_da1
 
         public String Address { get; set; }
 
+        public List<Doctor> DoctorList { get; set; }
+
     }
 }

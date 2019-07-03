@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ultima_prueba_da1
 {
-    class Doctor
+    public class Doctor
     {
         public int Id { get; set; }
 
